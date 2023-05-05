@@ -1,3 +1,11 @@
+please see path:
+
+/Users/johnnyalamilla/Desktop/RUT-VIRT-FIN-PT-12-2022-U-LOLC/Activities/RUT-VIRT-FIN-PT-12-2022-U-LOLC/Homework/18-Blockchain/Instructions/Starter_Code/pychain.py
+
+
+
+
+
 # PyChain Ledger
 
 ![alt=""](Images/application-image.png)
